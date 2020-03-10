@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-6.0.dtd">
+<!-- eric6 tasks file for project IS620 -->
+<!-- Saved: 2020-03-10, 17:42:27 -->
+<Tasks version="6.0">
+  <ProjectScanFilter></ProjectScanFilter>
+  <Task priority="1" completed="False" type="1" uid="{bdf2188b-6ea6-4123-bb0f-e3ccb35a0570}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2020-03-10, 17:40:01</Created>
+    <Resource>
+      <Filename>motor.py</Filename>
+      <Linenumber>79</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{bededeba-1777-4d51-9265-fec9d6f00df2}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2020-03-10, 17:40:01</Created>
+    <Resource>
+      <Filename>motor.py</Filename>
+      <Linenumber>113</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{f9ca71bd-d3a2-4bd4-a82d-564751c01352}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2020-03-10, 17:40:01</Created>
+    <Resource>
+      <Filename>motor.py</Filename>
+      <Linenumber>124</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" type="1" uid="{6b6bb30d-1d29-42b4-ab61-8c6c777f89af}">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2020-03-10, 17:40:01</Created>
+    <Resource>
+      <Filename>motor.py</Filename>
+      <Linenumber>134</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>
